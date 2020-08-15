@@ -5,7 +5,7 @@ import SEO from "../components/seo";
 
 const Hero = () => (
   <div className="text-center">
-    <h1 className="text-5xl font-extrabold text-indigo-600 leading-none tracking-tight inset-x-0.top-0">
+    <h1 className="text-5xl font-extrabold text-indigo-600 leading-none tracking-loose inset-x-0.top-0">
       Projects I'm working on
     </h1>
     <br />

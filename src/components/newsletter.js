@@ -33,7 +33,7 @@ const Newsletter = () => {
         Sign up for my newsletter
       </h2>
       <p className="text-3l text-l text-gray-900 leading-tight tracking-tight p-6 font-body">
-        Every week I send out my personal insights on my journey as a digital
+        Every week I send out my personal insights on being a digital
         maker and investor. It’s short, insightful, sponsor-free, and you can
         always unsubscribe with a simple click:
       </p>
