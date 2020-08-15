@@ -1,7 +1,7 @@
 import React from "react";
 
 import Layout from "../components/layout";
-import Newsletter from "../components/Newsletter";
+import Newsletter from "../components/newsletter";
 import SEO from "../components/seo";
 
 const Hero = () => (
