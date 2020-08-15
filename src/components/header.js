@@ -22,7 +22,7 @@ function Header({ siteTitle }) {
         </Link>
 
         <button
-          className="block md:hidden border border-black flex items-center px-3 py-2 rounded text-black"
+          className="block md:hidden border border-white flex items-center px-3 py-2 rounded text-white bg-black"
           onClick={() => toggleExpansion(!isExpanded)}
         >
           <svg
