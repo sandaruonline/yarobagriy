@@ -7,6 +7,7 @@
     "@openfonts/open-sans_all": "^1.44.1",
     "classnames": "^2.2.6",
     "gatsby": "^2.21.15",
+    "gatsby-plugin-google-analytics": "^2.3.13",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "2.4.2",
     "gatsby-plugin-offline": "3.2.1",
